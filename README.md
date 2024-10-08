@@ -1,4 +1,11 @@
 # PFPMA
+This repository contains the code for our paper:<br>
+
+J. Sun, H. Yu, and J. Zhao, "Generating Adversarial Examples Using Parameter-
+Free Penalty Method", In Proc. 24th IEEE International Conference on Software Security and Relia-
+bility,    Fault Prediction, Prevention, Detection, and Reliability Enhancement Workshop, Cambridge,
+United Kingdom, July 1-5, 2024
+
 
 ### Requirements
 - Python3.11
